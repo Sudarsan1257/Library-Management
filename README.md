@@ -39,8 +39,7 @@ Star UML
 <img width="849" height="549" alt="image" src="https://github.com/user-attachments/assets/b8692a5d-7e33-40dd-b54e-5ec941f651c8" />
 
 ## COMMUNICATION DIAGRAM:
-<img width="1052" height="842" alt="445400125-fe39faf8-109c-48fe-9c46-447fb288979e" src="https://github.com/user-attachments/assets/2131f114-0fd2-45da-8c5c-faffa6c13b56" />
-
+<img width="915" height="812" alt="506932670-cf65e840-cc2c-42d2-b807-20838afe2cfb" src="https://github.com/user-attachments/assets/f3ac9740-efeb-4f35-b74e-1706fa0a5756" />
 
 ### RESULT:
 Thus the Library management system project was executed and the output was verified.
